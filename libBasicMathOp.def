@@ -1,0 +1,2 @@
+; D:\Downloads\bin\dlltool.exe -z libBasicMathOp.def --export-all-symbols -l libBasicMathOp.dll -D libBasicMathOp.so
+EXPORTS
